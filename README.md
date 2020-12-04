@@ -1,0 +1,2 @@
+"# cajero_api-main"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin github.com/foints/cajero_api-api.git git push -u origin main
+"# cajero_api-main"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin github.com/foints/cajero_api-main.git git push -u origin main -f git add . git commit -m "second commit"
